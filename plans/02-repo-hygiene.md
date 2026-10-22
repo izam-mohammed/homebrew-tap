@@ -84,7 +84,7 @@ only adds a policy saying how to report a problem privately.
 
 ### Phase 4: open the PR
 
-- [ ] The branch pushed and its PR opened against `main` (or, if one is
+- [x] The branch pushed and its PR opened against `main` (or, if one is
   already open for this branch, its body brought up to date) with a
   Conventional Commit title for the whole change, a body naming this plan,
   what changed and why, and the checks run with their result. The PR's URL

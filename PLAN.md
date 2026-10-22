@@ -5,4 +5,4 @@ phase is numbered after it so the two keep their numbers once both land.
 
 ### Phase 2: repository hygiene
 
-- [ ] `plans/02-repo-hygiene.md` - a security policy and GitHub topics.
+- [x] `plans/02-repo-hygiene.md` - a security policy and GitHub topics.
