@@ -67,18 +67,18 @@ only adds a policy saying how to report a problem privately.
 
 ### Phase 1: topics
 
-- [ ] Topics set with `gh repo edit`: homebrew, homebrew-tap,
+- [x] Topics set with `gh repo edit`: homebrew, homebrew-tap,
   homebrew-formula, homebrew-cask, goreleaser, ruby.
 
 ### Phase 2: Dependabot
 
-- [ ] `main` searched for workflows and manifests: none found, so no
+- [x] `main` searched for workflows and manifests: none found, so no
   `dependabot.yml` lands here; the follow-up above holds the config for
   when a workflow exists.
 
 ### Phase 3: security policy
 
-- [ ] `SECURITY.md` names the formula and the cask, sends reports through
+- [x] `SECURITY.md` names the formula and the cask, sends reports through
   private vulnerability reporting, says only the latest version of each app
   is served, and sends problems in the apps to their own repositories.
 
