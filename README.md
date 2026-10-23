@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="homebrew-tap: a vending machine with nine slots and two things in it, claim and penpot-mcp, both free, no refunds. a note says how to buy with brew, and the robot restocking it says do not hand-edit, i will know." src="assets/banner-light.svg">
+  <img alt="homebrew-tap: a vending machine with nine slots and two things in it, app 1 and app 2, both free, no refunds. a note says how to buy with brew, and the robot restocking it says do not hand-edit, i will know." src="assets/banner-light.svg">
 </picture>
 
 # homebrew-tap
